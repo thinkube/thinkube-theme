@@ -15,7 +15,7 @@ Clean, professional themes designed for optimal readability with Thinkube's bran
 - **Light Teal**: `#0088aa` / `#22d3ee` - Secondary accent for functions and operators
 - **Orange Accent**: `#FF6B35` - For numbers and badges
 - **Light Theme**: White background with subtle grays
-- **Dark Theme**: Dark background (`#1a2128`) with rich contrast
+- **Dark Theme**: Dark background (`#252f3a`) with rich contrast
 
 ## Features
 
