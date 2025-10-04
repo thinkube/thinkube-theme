@@ -1,17 +1,21 @@
 # Thinkube Theme
 
-Official light theme for Thinkube platform featuring the signature teal brand colors.
+Official light and dark themes for Thinkube platform featuring the signature teal brand colors.
 
 ## Preview
 
-A clean, professional light theme designed for optimal readability with Thinkube's brand identity.
+Clean, professional themes designed for optimal readability with Thinkube's brand identity.
+
+- **Thinkube Light** - Crisp light theme with teal accents
+- **Thinkube Dark** - Modern dark theme with teal highlights
 
 ### Color Palette
 
 - **Primary Teal**: `#006680` - Main accent color for keywords, selections, and UI elements
-- **Light Teal**: `#0088aa` - Secondary accent for functions and operators
+- **Light Teal**: `#0088aa` / `#22d3ee` - Secondary accent for functions and operators
 - **Orange Accent**: `#FF6B35` - For numbers and badges
-- **Backgrounds**: White and light gray tones for comfortable reading
+- **Light Theme**: White background with subtle grays
+- **Dark Theme**: Dark background (`#0f1419`) with rich contrast
 
 ## Features
 
@@ -34,7 +38,9 @@ A clean, professional light theme designed for optimal readability with Thinkube
 
 3. Open Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`)
 
-4. Type "Color Theme" and select "Thinkube Light"
+4. Type "Color Theme" and select either:
+   - **Thinkube Light** for light theme
+   - **Thinkube Dark** for dark theme
 
 ### For VS Code
 
