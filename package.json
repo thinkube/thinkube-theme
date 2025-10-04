@@ -1,0 +1,33 @@
+{
+  "name": "thinkube-theme",
+  "displayName": "Thinkube Theme",
+  "description": "Official Thinkube light theme with teal brand colors",
+  "version": "1.0.0",
+  "publisher": "thinkube",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "light theme",
+    "teal",
+    "thinkube"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Thinkube Light",
+        "uiTheme": "vs",
+        "path": "./themes/thinkube-light.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thinkube/thinkube-theme"
+  },
+  "license": "Apache-2.0"
+}
