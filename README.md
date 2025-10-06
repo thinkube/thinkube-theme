@@ -1,6 +1,8 @@
 # Thinkube Theme
 
-Official light and dark themes for Thinkube platform featuring the signature teal brand colors.
+Official light and dark themes for the Thinkube platform featuring the signature teal brand colors.
+
+> **Note**: This theme is part of the Thinkube platform and is **not available in the VS Code Marketplace**. It is automatically installed in your Thinkube code-server environment.
 
 ## Preview
 
@@ -9,7 +11,17 @@ Clean, professional themes designed for optimal readability with Thinkube's bran
 - **Thinkube Light** - Crisp light theme with teal accents
 - **Thinkube Dark** - Modern dark theme with teal highlights
 
-### Color Palette
+## Usage
+
+To activate the theme:
+1. Open Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`)
+2. Type "Color Theme" and select either:
+   - **Thinkube Light** for light theme
+   - **Thinkube Dark** for dark theme
+
+Or use the keyboard shortcut `Ctrl+K Ctrl+T` (or `Cmd+K Cmd+T` on macOS).
+
+## Color Palette
 
 - **Primary Teal**: `#006680` - Main accent color for keywords, selections, and UI elements
 - **Light Teal**: `#0088aa` / `#22d3ee` - Secondary accent for functions and operators
@@ -25,57 +37,11 @@ Clean, professional themes designed for optimal readability with Thinkube's bran
 - Semantic syntax highlighting
 - Consistent UI theming across all panels
 
-## Installation
-
-### For Code-Server
-
-1. Copy the extension to your code-server extensions directory:
-   ```bash
-   cp -r thinkube-theme ~/.local/share/code-server/extensions/
-   ```
-
-2. Restart code-server
-
-3. Open Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`)
-
-4. Type "Color Theme" and select either:
-   - **Thinkube Light** for light theme
-   - **Thinkube Dark** for dark theme
-
-### For VS Code
-
-1. Package the extension:
-   ```bash
-   npm install -g @vscode/vsce
-   vsce package
-   ```
-
-2. Install the `.vsix` file:
-   - Open VS Code
-   - Go to Extensions
-   - Click "..." menu → "Install from VSIX"
-   - Select the generated `.vsix` file
-
-## Syntax Highlighting
-
-- **Keywords**: Teal, bold
-- **Strings**: Green
-- **Numbers**: Orange
-- **Comments**: Gray, italic
-- **Functions**: Light teal
-- **Classes**: Yellow/amber, bold
-
-## UI Elements
-
-- **Status Bar**: Teal background with white text
-- **Activity Bar**: Light teal background
-- **Editor**: White background with teal accents
-- **Sidebar**: Light gray background
-- **Tabs**: Active tabs highlighted with teal border
-
-## Development
+## About
 
 Built for the Thinkube platform - a home-based Kubernetes development environment designed for AI applications.
+
+This theme is maintained as part of the Thinkube project and is designed to work seamlessly with other Thinkube components.
 
 ## License
 
