@@ -4,6 +4,7 @@
   "description": "Official Thinkube themes (light & dark) with teal brand colors",
   "version": "1.0.0",
   "publisher": "thinkube",
+  "icon": "icon.svg",
   "engines": {
     "vscode": "^1.80.0"
   },
