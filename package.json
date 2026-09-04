@@ -2,7 +2,7 @@
   "name": "thinkube-theme",
   "displayName": "Thinkube Theme",
   "description": "Official Thinkube themes (light & dark) with teal brand colors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "thinkube",
   "icon": "icon.svg",
   "engines": {
