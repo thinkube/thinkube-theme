@@ -94,7 +94,7 @@
     "terminal.ansiBlack": "#212121",
     "terminal.ansiRed": "#d40c1a",
     "terminal.ansiGreen": "#00884d",
-    "terminal.ansiYellow": "#b45309",
+    "terminal.ansiYellow": "#946300",
     "terminal.ansiBlue": "#005063",
     "terminal.ansiMagenta": "#805ad5",
     "terminal.ansiCyan": "#006f87",
@@ -102,7 +102,7 @@
     "terminal.ansiBrightBlack": "#6b6760",
     "terminal.ansiBrightRed": "#e53e3e",
     "terminal.ansiBrightGreen": "#38a169",
-    "terminal.ansiBrightYellow": "#d97706",
+    "terminal.ansiBrightYellow": "#CA8A04",
     "terminal.ansiBrightBlue": "#006f87",
     "terminal.ansiBrightMagenta": "#9f7aea",
     "terminal.ansiBrightCyan": "#22d3ee",
@@ -113,7 +113,7 @@
     "input.placeholderForeground": "#6b6760",
     "inputOption.activeBorder": "#005063",
     "inputValidation.infoBorder": "#1c69e3",
-    "inputValidation.warningBorder": "#D97706",
+    "inputValidation.warningBorder": "#CA8A04",
     "inputValidation.errorBorder": "#d40c1a",
     "dropdown.background": "#ffffff",
     "dropdown.foreground": "#212121",
@@ -145,7 +145,7 @@
     "gitDecoration.deletedResourceForeground": "#d40c1a",
     "gitDecoration.untrackedResourceForeground": "#00884d",
     "gitDecoration.ignoredResourceForeground": "#6b6760",
-    "gitDecoration.conflictingResourceForeground": "#B45309",
+    "gitDecoration.conflictingResourceForeground": "#946300",
     "diffEditor.insertedTextBackground": "#00884d20",
     "diffEditor.removedTextBackground": "#d40c1a20",
     "merge.currentHeaderBackground": "#00506340",
@@ -155,11 +155,11 @@
     "activityBar.activeBorder": "#FF6B35",
     "statusBarItem.remoteBackground": "#FF6B35",
     "statusBarItem.remoteForeground": "#002933",
-    "editorWarning.foreground": "#B45309",
-    "editorOverviewRuler.warningForeground": "#D97706",
-    "list.warningForeground": "#B45309",
-    "problemsWarningIcon.foreground": "#B45309",
-    "notificationsWarningIcon.foreground": "#B45309"
+    "editorWarning.foreground": "#946300",
+    "editorOverviewRuler.warningForeground": "#CA8A04",
+    "list.warningForeground": "#946300",
+    "problemsWarningIcon.foreground": "#946300",
+    "notificationsWarningIcon.foreground": "#946300"
   },
   "tokenColors": [
     {
@@ -189,7 +189,7 @@
         "constant.numeric"
       ],
       "settings": {
-        "foreground": "#b45309"
+        "foreground": "#946300"
       }
     },
     {
@@ -209,7 +209,7 @@
         "constant.other"
       ],
       "settings": {
-        "foreground": "#b45309"
+        "foreground": "#946300"
       }
     },
     {
@@ -258,7 +258,7 @@
         "entity.name.type"
       ],
       "settings": {
-        "foreground": "#b45309",
+        "foreground": "#946300",
         "fontStyle": "bold"
       }
     },
@@ -268,7 +268,7 @@
         "entity.other.inherited-class"
       ],
       "settings": {
-        "foreground": "#d97706",
+        "foreground": "#CA8A04",
         "fontStyle": "italic"
       }
     },
@@ -337,7 +337,7 @@
         "support.class"
       ],
       "settings": {
-        "foreground": "#b45309"
+        "foreground": "#946300"
       }
     },
     {
