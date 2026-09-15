@@ -1,0 +1,9 @@
+.claude/**
+.git/**
+.gitignore
+.nvmrc
+node_modules/**
+scripts/**
+.temp/**
+package-lock.json
+*.vsix
