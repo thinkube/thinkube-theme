@@ -41,8 +41,8 @@
     "statusBar.noFolderBackground": "#001e26",
     "statusBar.debuggingBackground": "#FF6B35",
     "activityBar.background": "#002933",
-    "progressBar.background": "#bbf2ffcc",
-    "badge.background": "#bbf2ffcc",
+    "progressBar.background": "#FF6B35",
+    "badge.background": "#FF6B35",
     "badge.foreground": "#002933",
     "sideBar.background": "#003240",
     "terminal.ansiBlack": "#111111",
@@ -73,7 +73,13 @@
     "list.warningForeground": "#FBBF24",
     "problemsWarningIcon.foreground": "#FBBF24",
     "notificationsWarningIcon.foreground": "#FBBF24",
-    "inputValidation.warningBorder": "#F59E0B"
+    "inputValidation.warningBorder": "#F59E0B",
+    "button.background": "#FF6B35",
+    "button.foreground": "#002933",
+    "button.hoverBackground": "#FF8B5C",
+    "extensionButton.prominentBackground": "#FF6B35",
+    "extensionButton.prominentForeground": "#002933",
+    "extensionButton.prominentHoverBackground": "#FF8B5C"
   },
   "tokenColors": [
     {
