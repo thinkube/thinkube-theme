@@ -1,8 +1,8 @@
 {
   "name": "thinkube-theme",
   "displayName": "Thinkube Theme",
-  "description": "Official Thinkube themes (light & dark) with teal brand colors",
-  "version": "1.0.1",
+  "description": "Official Thinkube themes (light & dark) with teal brand colors, and a Lucide-based product icon theme",
+  "version": "1.1.0",
   "publisher": "thinkube",
   "icon": "icon.svg",
   "engines": {
@@ -16,7 +16,9 @@
     "light theme",
     "dark theme",
     "teal",
-    "thinkube"
+    "thinkube",
+    "product icon theme",
+    "lucide"
   ],
   "contributes": {
     "themes": [
@@ -30,11 +32,29 @@
         "uiTheme": "vs-dark",
         "path": "./themes/thinkube-dark.json"
       }
+    ],
+    "productIconThemes": [
+      {
+        "id": "thinkube-icons",
+        "label": "Thinkube Icons (Lucide)",
+        "path": "./product-icons/thinkube-icons.json"
+      }
     ]
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/thinkube/thinkube-theme"
   },
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "scripts": {
+    "build:icons": "tsx scripts/build-product-icons.ts"
+  },
+  "devDependencies": {
+    "lucide-static": "1.26.0",
+    "oslllo-svg-fixer": "6.0.1",
+    "svg2ttf": "6.1.0",
+    "svgicons2svgfont": "16.0.0",
+    "ttf2woff": "3.0.0",
+    "tsx": "4.23.13"
+  }
 }
