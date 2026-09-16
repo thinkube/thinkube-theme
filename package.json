@@ -2,7 +2,7 @@
   "name": "thinkube-theme",
   "displayName": "Thinkube Theme",
   "description": "Official Thinkube themes (light & dark) with teal brand colors, and a Lucide-based product icon theme",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "publisher": "thinkube",
   "icon": "icon.png",
   "engines": {
