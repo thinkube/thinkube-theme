@@ -1,4 +1,6 @@
-# ⚠️ Under Development - Not Ready for Use
+# thinkube-theme
+
+The colour and icon themes of the Thinkube IDE. It is built into every code-server workspace.
 
 ## Contents
 
