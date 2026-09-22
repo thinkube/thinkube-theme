@@ -29,4 +29,4 @@ See [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
 
 ## Copyright
 
-Copyright 2025 Alejandro Martínez Corriá
+Copyright Alejandro Martínez Corriá and the Thinkube contributors
