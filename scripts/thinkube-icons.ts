@@ -1,3 +1,8 @@
+/*
+ * Copyright Alejandro Martínez Corriá and the Thinkube contributors
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
 /**
  * Thinkube changes applied on top of the Lucide mapping in lucide-set.ts.
  * - key: VS Code icon ID (a codicon ID with the "codicon:" prefix, or a

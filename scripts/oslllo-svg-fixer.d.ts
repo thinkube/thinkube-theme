@@ -1,3 +1,8 @@
+/*
+ * Copyright Alejandro Martínez Corriá and the Thinkube contributors
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
 declare module 'oslllo-svg-fixer' {
   export interface SVGFixerOptions {
     showProgressBar?: boolean
