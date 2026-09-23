@@ -1,3 +1,6 @@
 *.vsix
 node_modules/
 .temp/
+
+# Local Claude Code and Tandem state
+.claude/ .tandem/
